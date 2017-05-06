@@ -541,7 +541,8 @@ section h3.section-subheading {
 .team-member img {
   margin: 0 auto;
   border: 7px solid white;
-  width: 50%;
+  height: 20%;
+  width: 30%;
 }
 .team-member h4 {
   margin-top: 25px;
