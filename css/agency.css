@@ -646,7 +646,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #fed136;
+  background-color: ##0000FF;
 }
 .btn:focus,
 .btn:active,
@@ -730,11 +730,11 @@ ul.social-buttons li a:active {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: #fed136;
+  background: ##0000FF;
 }
 ::selection {
   text-shadow: none;
-  background: #fed136;
+  background: ##0000FF;
 }
 img::selection {
   background: transparent;
@@ -743,5 +743,5 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #fed136;
+  webkit-tap-highlight-color: ##0000FF;
 }
