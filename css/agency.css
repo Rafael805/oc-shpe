@@ -3,7 +3,7 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
- /*@media (max-width: 550px) {
+ @media (max-width: 550px) {
      .big-container {
          display: none;
      }
@@ -12,9 +12,9 @@
      .small-container {
          display: none;
      }
- }*/
- /* Responsive iFrame */
- /*.responsive-iframe-container {
+ }
+
+ .responsive-iframe-container {
      position: relative;
      padding-bottom: 56.25%;
      padding-top: 30px;
@@ -29,7 +29,7 @@
      left: 0;
      width: 100%;
      height: 100%;
- }*/
+ }
 
 body {
   overflow-x: hidden;
