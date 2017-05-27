@@ -1,2 +1,2 @@
 ## oc-shpe
-website for the oxnard college shpe student chapter
+Website for the oxnard college shpe student chapter
