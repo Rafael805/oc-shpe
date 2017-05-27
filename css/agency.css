@@ -38,6 +38,14 @@ a:active,
 a.active {
   color: #0066ff;
 }
+
+#byLaws {
+        font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        text-transform: uppercase;
+        font-weight: 700;
+        text-align: center;
+}
+
 h1,
 h2,
 h3,
