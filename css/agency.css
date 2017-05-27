@@ -40,8 +40,8 @@ a.active {
 }
 
 h3 #homesub {
-        font-weight: normal;
-        color:blue
+        font-weight: normal !important;
+        color:blue !important;
 }
 
 #byLaws {
