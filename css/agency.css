@@ -44,6 +44,9 @@ a.active {
         text-transform: uppercase;
         font-weight: 700;
         text-align: center;
+}
+
+#byLaws a {
         text-decoration: none;
 }
 
