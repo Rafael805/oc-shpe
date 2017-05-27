@@ -39,6 +39,10 @@ a.active {
   color: #d0d0d0;
 }
 
+#homesub {
+        font-weight: normal;
+}
+
 #byLaws {
         font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
         text-transform: uppercase;
