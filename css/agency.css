@@ -39,9 +39,9 @@ a.active {
   color: #d0d0d0;
 }
 
-#homesub {
+h3 #homesub {
         font-weight: normal;
-        color:blue;
+        color:blue
 }
 
 #byLaws {
@@ -54,6 +54,7 @@ a.active {
 
 h1,
 h2,
+h3,
 h4,
 h5,
 h6 {
