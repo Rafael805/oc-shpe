@@ -4,7 +4,6 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -46,6 +45,12 @@ a.active {
         font-weight: 700;
         text-align: center;
         padding-top: 10%;
+}
+
+img.img-responsive.img-circle {
+        /*box-sizing: border-box;*/
+  	box-shadow: 0 0 12px rgba(0, 0, 0, .4);
+ 	/*border-radius: 6px;*/
 }
 
 h1,
